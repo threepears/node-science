@@ -42,6 +42,21 @@ class List {
 
   removeHead () {
     this.head = this.head.next
+
+    if (!this.head) {
+      this.tail = null
+    }
+  }
+
+  get (index) {
+    let current = this.head
+
+    while (index > 0) {
+      current = current.next
+      index--
+    }
+
+    return current
   }
 }
 
