@@ -1,10 +1,10 @@
 # node-science
 
-A NSS classroom project exploring data structures
+A NSS classroom project exploring topics such as data structures, dictionaries, and sorting algorithms.
 
 ### Goal
 
-To create a few different classes and understand how a singly-linked list works. Add functionality to add and remove nodes.  Create a dictionary class to add and remove data.
+To create a few different classes and understand how a singly-linked list works. Add functionality to add and remove nodes.  Create a dictionary class to add and remove data.  Implement three sorting algorithms to test.
 
 ### Tools Used
 

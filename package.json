@@ -1,0 +1,24 @@
+{
+  "name": "node-science",
+  "version": "1.0.0",
+  "description": "A NSS classroom project exploring topics such as data structures, dictionaries, and sorting algorithms.",
+  "main": "dictionary.js",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "lodash": "^4.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/threepears/node-science.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/threepears/node-science/issues"
+  },
+  "homepage": "https://github.com/threepears/node-science#readme"
+}
