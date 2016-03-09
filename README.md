@@ -4,7 +4,7 @@ A NSS classroom project exploring data structures
 
 ### Goal
 
-To create a few different classes and understand how a singly-linked list works. Add functionality to add and remove nodes.
+To create a few different classes and understand how a singly-linked list works. Add functionality to add and remove nodes.  Create a dictionary class to add and remove data.
 
 ### Tools Used
 
